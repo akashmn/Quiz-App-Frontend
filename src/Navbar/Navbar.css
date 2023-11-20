@@ -9,12 +9,13 @@
     align-items: center;
     justify-content: space-between;
 
-    border-bottom-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem
 }
 
 /* .navbar:hover{
-    background: -webkit-linear-gradient(to right, #ad5389, #3c1053); 
+    // change the background-color on hovering;
+    background: -webkit-linear-gradient(to right, #ad5389, #3c1053);
     background: linear-gradient(to right, #ad5389, #3c1053);
 } */
 
@@ -43,6 +44,12 @@ a{
     text-decoration: none;
     color: white;
 }
+
+/* a.active{
+    // put an white underline on the active link
+    text-decoration: underline;
+    text-decoration-color: white;
+} */
 
 
 
