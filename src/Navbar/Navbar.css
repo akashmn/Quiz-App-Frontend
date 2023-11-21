@@ -13,12 +13,6 @@
     border-bottom-right-radius: 0.5rem
 }
 
-/* .navbar:hover{
-    // change the background-color on hovering;
-    background: -webkit-linear-gradient(to right, #ad5389, #3c1053);
-    background: linear-gradient(to right, #ad5389, #3c1053);
-} */
-
 .logo{
     margin-left: 5rem;
     font-size: 2rem;
@@ -45,11 +39,10 @@ a{
     color: white;
 }
 
-/* a.active{
-    // put an white underline on the active link
+a.active{
     text-decoration: underline;
     text-decoration-color: white;
-} */
+}
 
 
 
